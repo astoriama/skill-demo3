@@ -5,7 +5,7 @@ public class skillDemoTest {
     //test addition method
     @Test
     public void addition() {
-        assertEquals(2, skillDemo.add(1,2));//failing
+        assertEquals(3, skillDemo.add(1,2));//failing
     }
 
 }
